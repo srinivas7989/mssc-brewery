@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.UUID;
 
 /**
- * Created by jt on 2019-04-20.
+ * Created by jt on 2019-04-2{}0.
  */
 @RequestMapping("/api/v1/beer")
 @RestController
